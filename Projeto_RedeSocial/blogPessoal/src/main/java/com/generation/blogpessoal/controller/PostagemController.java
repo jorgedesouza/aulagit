@@ -1,1 +1,1 @@
-package com.generation.blogpessoal.controller;public class PostagemController {}
+package com.generation.blogpessoal.controller;public class PostagemController {}
